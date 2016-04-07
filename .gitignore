@@ -4,3 +4,7 @@ node_modules
 
 # Optional npm cache directory
 .npm
+
+.nvmrc
+npm-debug.log
+

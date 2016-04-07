@@ -1,7 +1,7 @@
 {
   "name": "hypersponse",
-  "version": "1.0.2",
-  "description": "Simple response buffering for hyperquest",
+  "version": "1.0.3",
+  "description": "`request` like buffering for hyperquest.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
