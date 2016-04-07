@@ -1,3 +1,7 @@
+[![NPM](https://nodei.co/npm/hypersponse.png?downloads=true&downloadRank=true)](https://nodei.co/npm/hypersponse/) [![NPM](https://nodei.co/npm-dl/hypersponse.png?months=6&height=3)](https://nodei.co/npm/hypersponse/)
+
+[![Build Status](https://travis-ci.org/bendytree/hypersponse.svg?branch=master)](https://travis-ci.org/bendytree/hypersponse)
+[![Coverage Status](https://coveralls.io/repos/github/bendytree/hypersponse/badge.svg?branch=master)](https://coveralls.io/github/bendytree/hypersponse?branch=master)
 
 # hypersponse
 

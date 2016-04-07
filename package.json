@@ -1,6 +1,6 @@
 {
   "name": "hypersponse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple response buffering for hyperquest",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,17 @@
   "author": "Josh Wright",
   "license": "MIT",
   "devDependencies": {
-    "portfinder": "^1.0.3",
-    "hyperquest": "^1.3.0",
-    "express": "^4.13.4",
-    "concat-stream": "^1.5.1"
-  }
+    "portfinder": "1.0.3",
+    "hyperquest": "1.3.0",
+    "express": "4.13.4",
+    "concat-stream": "1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bendytree/hypersponse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bendytree/hypersponse/issues"
+  },
+  "homepage": "https://github.com/bendytree/hypersponse"
 }
